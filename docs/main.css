@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body
+{
+	background-color: burlywood;
+}
+
+.fontStyle1
+{
+	color: aqua;
+	text-align: center;
+}
+
+.center
+{
+	text-aling: center;
+	display: block;
+
+}
+
+#dogImg
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
